@@ -1,1 +1,4 @@
 .env
+udi-func
+__pycache__
+geckodriver.log
